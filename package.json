@@ -3,5 +3,25 @@
     "axios": "^0.27.2",
     "cors": "^2.8.5",
     "express": "^4.18.1"
-  }
+  },
+  "name": "capstone_project",
+  "version": "1.0.0",
+  "main": "server/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fakeAstronautC4/Capstone-Proyect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fakeAstronautC4/Capstone-Proyect/issues"
+  },
+  "homepage": "https://github.com/fakeAstronautC4/Capstone-Proyect#readme",
+  "description": ""
 }
